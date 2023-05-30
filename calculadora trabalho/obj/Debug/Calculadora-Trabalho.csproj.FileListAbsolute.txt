@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\bin\Debug\calculadora trabalho.exe.config
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\bin\Debug\calculadora trabalho.exe
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\bin\Debug\calculadora trabalho.pdb
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\Calculadora-Trabalho.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\calculadora_trabalho.Calculadora.resources
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\calculadora_trabalho.Properties.Resources.resources
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\Calculadora-Trabalho.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\Calculadora-Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\calculadora trabalho.exe
+C:\Users\Aluno\source\repos\calculadora-trabalho\calculadora trabalho\obj\Debug\calculadora trabalho.pdb
